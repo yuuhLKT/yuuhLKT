@@ -5,15 +5,15 @@
 </p>
 
 <p align="left">
-  🦄 **Linguagens:** C#, JavaScript, Java, Kotlin, TypeScript, Python.
+  🦄 <strong>Linguagens:</strong> C#, JavaScript, Java, Kotlin, TypeScript, Python.
 </p>
 
 <p align="left">
-  💼 **Ferramentas:** .NET, React, Node.js, Spring Boot, MySQL, PostgreSQL, Docker, WebSockets, TailwindCSS, Git.
+  💼 <strong>Ferramentas:</strong> .NET, React, Node.js, Spring Boot, MySQL, PostgreSQL, Docker, WebSockets, TailwindCSS, Git.
 </p>
 
 <p align="left">
-  📊 **Status das minhas linguagens:**  
+  📊 <strong>Status das minhas linguagens:</strong>  
 </p>
 
 <p align="left">
@@ -21,7 +21,7 @@
 </p>
 
 <p align="left">
-  💌 Entre em contato comigo: ⤵️
+  💌 <strong>Entre em contato comigo:</strong> ⤵️
 </p>
 
 <p align="left">
