@@ -1,28 +1,36 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
-<p align="left"> 
-  Olá! Me chamo <strong>Yuri Luiz</strong>, sou estudante de <strong>Ciência da Computação</strong> na UVV e desenvolvedor <strong>Full Stack</strong>, apaixonado por tecnologia e desenvolvimento web/backend. No momento, estou me especializando em <strong>.NET C#, Java, React e Angular</strong>, além de estudar outras tecnologias para aprimorar minhas habilidades.
-</p>
+# Olá, eu sou o Yuri Luiz 👋
 
-<p align="left">
-  🦄 <strong>Linguagens:</strong> C#, JavaScript, Java, Kotlin, TypeScript, Python.
-</p>
+Sou estudante de **Ciência da Computação** na UVV e atuo como **Desenvolvedor Full Stack**, com foco em **PHP (Laravel)**, **Java (Spring Boot)** e **React**. Atualmente trabalho como **Desenvolvedor Júnior PHPr**, onde colaboro no desenvolvimento e manutenção de sistemas web.
 
-<p align="left">
-  💼 <strong>Ferramentas:</strong> .NET, React, Node.js, Spring Boot, MySQL, PostgreSQL, Docker, WebSockets, TailwindCSS, Git.
-</p>
+Tenho paixão por tecnologia, aprendizado constante e gosto de estudar sobre **frontend e o backend**.
 
-<p align="left">
-  📊 <strong>Status das minhas linguagens:</strong>  
-</p>
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+### 🧠 Linguagens que utilizo:
+- PHP · Java · TypeScript · JavaScript · Kotlin · Python · C#
+
+### 🔧 Frameworks e Ferramentas:
+- Laravel · Spring Boot · React · Angular · Node.js  
+- Docker · Git · SQL · NoSQL · CI/CD · TailwindCSS · .NET · AWS · Teste Unitários
+
+### 🌱 Atualmente estudando:
+- Arquitetura de Software · Estruturas de Dados e Algoritmos · Clean Code  
+- Microsserviços · Infra · Laravel · Spring Boot · Testes
+
+---
+
+## 📊 Status das linguagens
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuhLKT&layout=compact&langs_count=6&theme=radical" alt="Top Langs"/>
 </p>
 
-<p align="left">
-  💌 <strong>Entre em contato comigo:</strong> ⤵️
-</p>
+
+## 💌 Entre em contato comigo
 
 <p align="left">
   <a href="mailto:yuri.luizkt@gmail.com" title="Gmail">
