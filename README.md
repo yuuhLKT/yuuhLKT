@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Yuri Luiz 👋
 
-Sou estudante de **Ciência da Computação** na UVV e atuo como **Desenvolvedor Full Stack**, com foco em **PHP (Laravel)**, **Java (Spring Boot)** e **React**. Atualmente trabalho como **Desenvolvedor Júnior PHPr**, onde colaboro no desenvolvimento e manutenção de sistemas web.
+Sou estudante de **Ciência da Computação** na UVV e atuo como **Desenvolvedor Full Stack**, com foco em **PHP (Laravel)**, **Java (Spring Boot)** e **React**. Atualmente trabalho como **Desenvolvedor Júnior PHP**, onde colaboro no desenvolvimento e manutenção de sistemas web.
 
 Tenho paixão por tecnologia, aprendizado constante e gosto de estudar sobre **frontend e o backend**.
 
