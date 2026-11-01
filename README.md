@@ -55,7 +55,7 @@ Tenho aprofundado meus conhecimentos principalmente em:
 
 ## 📊 Linguagens no GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuuhLKT&layout=compact&langs_count=8&theme=github_dark&hide_border=true)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=yuuhLKT&layout=compact&langs_count=8&theme=github_dark&hide_border=true)
 
 *As estatísticas refletem apenas os repositórios analisados pelo serviço e não representam toda a minha experiência profissional.*
 
