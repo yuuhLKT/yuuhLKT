@@ -1,45 +1,68 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
-
 # Olá, eu sou o Yuri Luiz 👋
 
-Sou estudante de **Ciência da Computação** na UVV e atuo como **Desenvolvedor Full Stack**, com foco em **PHP (Laravel)**, **Java (Spring Boot)** e **React**. Atualmente trabalho como **Desenvolvedor Júnior PHP**, onde colaboro no desenvolvimento e manutenção de sistemas web.
+**Desenvolvedor Full Stack | PHP · Java · TypeScript**
 
-Tenho paixão por tecnologia, aprendizado constante e gosto de estudar sobre **frontend e o backend**.
+Desenvolvedor de software com experiência no desenvolvimento, manutenção e evolução de sistemas e Estudante de **Ciência da Computação** na Universidade Vila Velha (UVV) .
+
+Atuo principalmente no ecossistema **PHP**, com interesse e experiência em diferentes plataformas, desde aplicações web e APIs até aplicativos desktop, mobile e ferramentas de automação.
+
+Gosto de explorar tecnologias, entender como sistemas funcionam e construir soluções que unam desempenho, usabilidade e boa arquitetura.
 
 ---
+
+## 💻 Áreas de atuação
+
+- 🌐 **Desenvolvimento Web:** aplicações full stack, interfaces responsivas, painéis administrativos e sistemas corporativos.
+- 📱 **Aplicações Mobile:** desenvolvimento de aplicativos Android, utilizando Kotlin, React Native e tecnologias do ecossistema mobile.
+- 🖥️ **Aplicações Desktop:** desenvolvimento de aplicações multiplataforma com Tauri, React, TypeScript e Rust.
+- ⚙️ **Backend & APIs:** construção de APIs REST, regras de negócio, autenticação, integrações e processamento de dados.
+- 🔗 **Integrações & Automação:** integração entre sistemas, webhooks, bots, processamento de tarefas e automação de fluxos.
+- 🤖 **IA & Ferramentas Inteligentes:** exploração de agentes de IA, modelos de linguagem e integração de ferramentas inteligentes em aplicações.
+- 🏗️ **Arquitetura & Infraestrutura:** organização de sistemas, bancos de dados, containers, versionamento e práticas de desenvolvimento.
 
 ## 🚀 Tecnologias & Ferramentas
 
-### 🧠 Linguagens que utilizo:
-- PHP · Java · TypeScript · JavaScript · Kotlin · Python · C#
+### Linguagens
 
-### 🔧 Frameworks e Ferramentas:
-- Laravel · Spring Boot · React · Angular · Node.js  
-- Docker · Git · SQL · NoSQL · CI/CD · TailwindCSS · .NET · AWS · Teste Unitários
+PHP · Java · TypeScript · JavaScript · Python · Kotlin · C# · Rust
 
-### 🌱 Atualmente estudando:
-- Arquitetura de Software · Estruturas de Dados e Algoritmos · Clean Code  
-- Microsserviços · Infra · Laravel · Spring Boot · Testes
+### Frameworks & Bibliotecas
+
+Laravel · Spring Boot · React · Angular · Node.js · Fastify · Tailwind CSS · .NET · Tauri
+
+### Bancos de Dados & Infraestrutura
+
+MySQL · PostgreSQL · SQLite · NoSQL · Docker · Git · Linux · AWS · CI/CD
+
+### Conceitos & Práticas
+
+APIs REST · WebSockets · Webhooks · Arquitetura de Software · Clean Code · Testes Automatizados · Integração de Sistemas
 
 ---
 
-## 📊 Status das linguagens
+## 🌱 Interesses & Estudos
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuhLKT&layout=compact&langs_count=6&theme=radical" alt="Top Langs"/>
-</p>
+Tenho aprofundado meus conhecimentos principalmente em:
 
+- Arquitetura de software e design de sistemas
+- Estruturas de dados e algoritmos
+- Aplicações distribuídas e microsserviços
+- Desenvolvimento de ferramentas para desenvolvedores
+- Inteligência artificial e automação
+- Infraestrutura, observabilidade e performance
 
-## 💌 Entre em contato comigo
+---
 
-<p align="left">
-  <a href="mailto:yuri.luizkt@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yurilkt/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://portifolio-phi-lyart.vercel.app/" title="Portfólio">
-    <img src="https://img.shields.io/badge/-Portfólio-000000?style=flat-square&labelColor=000000&logo=vercel&logoColor=white" alt="Portfólio"/>
-  </a>
-</p>
+## 📊 Linguagens no GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuuhLKT&layout=compact&langs_count=8&theme=github_dark&hide_border=true)
+
+*As estatísticas refletem apenas os repositórios analisados pelo serviço e não representam toda a minha experiência profissional.*
+
+---
+
+## 📬 Contato
+
+[**LinkedIn**](https://www.linkedin.com/in/yurilkt/) · [**Portfólio**](https://portifolio-phi-lyart.vercel.app/) · [**Email**](mailto:yuri.luizkt@gmail.com)
+
+*Construindo, aprendendo e explorando novas possibilidades com tecnologia.*
